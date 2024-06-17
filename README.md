@@ -1,4 +1,4 @@
-# mist-gen
+# scrambling-jam
 Tool for generating texts with mistakes:
 
 - for nlp testing,
